@@ -22,5 +22,9 @@
     {
       "title": "SQL",
       "imageSrc": "skills/SQL.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/JavaScript.png"
     }
   ]

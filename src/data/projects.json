@@ -4,16 +4,16 @@
       "imageSrc": "projects/project.png",
       "description": "This project was a Battle Ship Game that utilized python libaries.",
       "skills": ["Python","NumPy"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "",
+      "source": ""
     },
     {
       "title": "Digital Signal Processing",
       "imageSrc": "projects/project.png",
       "description": "Design of a digital filter to remove noise from audio files, utilizing IIR and FIR signal processing.",
       "skills": ["Simulink", "Quartus Prime", "Oscilioscope", "Wave Generators", "FPGA Systems"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "",
+      "source": ""
     },
     {
       "title": "Simon Says Game",
@@ -21,6 +21,6 @@
       "description": "Developed game system by utilizing Intel Quartus Prime software with VHDL to link circuits to button pad. Implemented game algorithms using VHDL to recognize button presses and pattern recognition .",
       "skills": ["VHDL", "Quartus Prime", "Simulink"],
       "demo": "https://www.linkedin.com/posts/dansflores_simon-says-project-coded-using-vhdl-activity-7058290031911731200-P7sm?utm_source=share&utm_medium=member_desktop",
-      "source": "https://www.github.com"
+      "source": ""
     }
   ]
