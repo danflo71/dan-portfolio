@@ -1,0 +1,26 @@
+[
+    {
+      "role": "Research Assistant",
+      "organisation": "Ohio State University",
+      "startDate": "Oct, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on Semiconductor Fabrication", "Testing Semiconductor propertites"],
+      "imageSrc": "history/OSUIcon.jpg"
+    },
+    {
+      "role": "Process Engineer Intern",
+      "organisation": "Mondelez International",
+      "startDate": "May, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": ["Data automation", "Saved Estimated 190hrs a year"],
+      "imageSrc": "history/MDLZ.png"
+    },
+    {
+      "role": "Mechanic Apprentice",
+      "organisation": "Falcon Auto & Body Repair",
+      "startDate": "July, 2019",
+      "endDate": "July, 2021",
+      "experiences": ["Online payment implementation", "Diagnose and repaired over 200 cars"],
+      "imageSrc": "history/MDLZ.png"
+    }
+  ]
