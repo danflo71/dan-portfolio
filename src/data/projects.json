@@ -1,10 +1,18 @@
 [
     {
-      "title": "Python Battle Ship",
+      "title": "Machine Learning Sports Predictor",
       "imageSrc": "projects/project.png",
-      "description": "This project was a Battle Ship Game that utilized python libaries.",
-      "skills": ["Python","NumPy"],
+      "description": "Constructed a machine learning model to predict La Liga League soccer match outcomes by collecting and preprocessing historical match data from the current season, achieving a prediction accuracy of 94% and a precision of 65% ",
+      "skills": ["Python", "Pandas", "Scikit-Learn", "Beatiful Soup"],
       "demo": "",
+      "source": "https://github.com/danflo71/La_Liga_Soccer_Matches"
+    },
+    {
+      "title": "Simon Says Game",
+      "imageSrc": "projects/project.png",
+      "description": "Developed game system by utilizing Intel Quartus Prime software with VHDL to link circuits to button pad. Implemented game algorithms using VHDL to recognize button presses and pattern recognition .",
+      "skills": ["VHDL", "Quartus Prime", "Simulink"],
+      "demo": "https://www.linkedin.com/posts/dansflores_simon-says-project-coded-using-vhdl-activity-7058290031911731200-P7sm?utm_source=share&utm_medium=member_desktop",
       "source": ""
     },
     {
@@ -16,11 +24,13 @@
       "source": ""
     },
     {
-      "title": "Simon Says Game",
+      "title": "Python Battle Ship",
       "imageSrc": "projects/project.png",
-      "description": "Developed game system by utilizing Intel Quartus Prime software with VHDL to link circuits to button pad. Implemented game algorithms using VHDL to recognize button presses and pattern recognition .",
-      "skills": ["VHDL", "Quartus Prime", "Simulink"],
-      "demo": "https://www.linkedin.com/posts/dansflores_simon-says-project-coded-using-vhdl-activity-7058290031911731200-P7sm?utm_source=share&utm_medium=member_desktop",
+      "description": "This project was a Battle Ship Game that utilized python libaries.",
+      "skills": ["Python","NumPy"],
+      "demo": "",
       "source": ""
     }
+
+    
   ]
